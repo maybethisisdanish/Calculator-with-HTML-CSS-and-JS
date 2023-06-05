@@ -9,28 +9,28 @@
                 var maxrange = document.getElementById("maxrange");
 
                 ms.onclick = function(){
-                    header.style.backgroundImage = "url(image-1)";
+                    header.style.backgroundImage = "url(image-1.png)";
                     model.innerHTML = "Model S";
                     zerotosixty.innerHTML = "1.9s";
                     topspeed.innerHTML = "200mph";
                     maxrange.innerHTML = "396mi";
                 }
                 m3.onclick = function(){
-                    header.style.backgroundImage = "url(image-2)";
+                    header.style.backgroundImage = "url(image-2.png)";
                     model.innerHTML = "Model 3";
                     zerotosixty.innerHTML = "1.7s";
                     topspeed.innerHTML = "220mph";
                     maxrange.innerHTML = "415mi";
                 }
                 mx.onclick = function(){
-                    header.style.backgroundImage = "url(image-3)";
+                    header.style.backgroundImage = "url(image-3.png)";
                     model.innerHTML = "Model X";
                     zerotosixty.innerHTML = "1.5s";
                     topspeed.innerHTML = "240mph";
                     maxrange.innerHTML = "458mi";
                 }
                 my.onclick = function(){
-                    header.style.backgroundImage = "url(image-4)";
+                    header.style.backgroundImage = "url(image-4.png)";
                     model.innerHTML = "Model Y";
                     zerotosixty.innerHTML = "1.3s";
                     topspeed.innerHTML = "250mph";
